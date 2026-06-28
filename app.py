@@ -23,7 +23,7 @@ st.image("red.jpg")
 # =============================
 # TIÊU ĐỀ
 # =============================
-st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
+st.title("📈 ĐỀ TÀI 10 - TRỰC QUAN HÓA CỔ PHIẾU")
 st.subheader("VÕ THỊ BÍCH LOAN")
 
 st.markdown("---")
