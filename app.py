@@ -10,7 +10,7 @@ import mplfinance as mpf
 # CẤU HÌNH TRANG
 # =============================
 st.set_page_config(
-    page_title="DỀ TÀI 10 - VÕ THỊ BÍCH LOAN",
+    page_title="Phân tích cổ phiếu bằng Mann-Kendall",
     page_icon="📈",
     layout="wide"
 )
@@ -23,8 +23,7 @@ st.image("logo.jpg")
 # =============================
 # TIÊU ĐỀ
 # =============================
-st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("TS. VŨ ĐỨC BÌNH")
+st.title("ĐỀ TÀI 8 - VÕ THỊ BÍCH LOAN")
 
 st.markdown("---")
 
