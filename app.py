@@ -18,13 +18,13 @@ st.set_page_config(
 # =============================
 # LOGO
 # =============================
-st.image("logo.jpg")
+st.image("red.jpg")
 
 # =============================
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("TS. VŨ ĐỨC BÌNH")
+st.subheader("VÕ THỊ BỊCH LOAN")
 
 st.markdown("---")
 
