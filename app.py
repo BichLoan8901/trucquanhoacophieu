@@ -23,7 +23,8 @@ st.image("logo.jpg")
 # =============================
 # TIÊU ĐỀ
 # =============================
-st.title("ĐỀ TÀI 8 - VÕ THỊ BÍCH LOAN")
+st.title("📈 ĐỀ TÀI 3 - TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
+st.subheader("VÕ THỊ BÍCH LOAN")
 
 st.markdown("---")
 
